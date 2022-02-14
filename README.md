@@ -32,28 +32,40 @@
 
 [返回目录](#目录)
 
-## 方向1：投行
+## 行业知识库
 
-基础知识：[投行基础知识](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247486733&idx=2&sn=285d26d7c4ae01e1d40402c59c6f8f79&chksm=fe4b0f37c93c862104bf570fcc4c09a7c427a381e5a2c120b04d35ec9f625b6bcd8f4025f1bf&token=2005506660&lang=zh_CN#rd)  [投行基础知识第二期](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247486749&idx=1&sn=9778ecd472a2367227327a6d0a565adf&chksm=fe4b0f27c93c86314c60fa4ef55f8f069cf40e30869068f696f8558406aecfe62046edda57b5&token=1837795310&lang=zh_CN#rd)  
+### 投行基础知识
 
-人物专访：
+基础知识：[投行基础知识第一期](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247486733&idx=2&sn=285d26d7c4ae01e1d40402c59c6f8f79&chksm=fe4b0f37c93c862104bf570fcc4c09a7c427a381e5a2c120b04d35ec9f625b6bcd8f4025f1bf&token=2005506660&lang=zh_CN#rd)  [投行基础知识第二期](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247486749&idx=1&sn=9778ecd472a2367227327a6d0a565adf&chksm=fe4b0f27c93c86314c60fa4ef55f8f069cf40e30869068f696f8558406aecfe62046edda57b5&token=1837795310&lang=zh_CN#rd)  
 
-推荐材料：
+人物专访：[侯弘扬学长](https://mp.weixin.qq.com/s/BL7fLg4HHtvtYH8lVG_EJg)
 
-技能要求：
+### 审计基础知识
+
+基础知识：[审计基础知识第一期](https://mp.weixin.qq.com/s/o2p0bmhMUJeWo5YMjOEbOA) 
 
 ## 研究及新闻分享
 
 CFA编辑部会定期进行热点新闻分享，并邀请老师进行相关主题研究分享。
 
-| 分享人                   | 分享人单位   | 分享时间  | 分享类型 | 分享内容                                                     |
-| ------------------------ | ------------ | --------- | -------- | ------------------------------------------------------------ |
-| 南审金融学院             | 南京审计大学 | 2020年4月 | 原创     | [2019新冠疫情冲击全球金融市场大事记](https://mp.weixin.qq.com/s?__biz=MjM5MTk5MTgxNg==&mid=2247483947&idx=1&sn=9683fe6194b6e46a40f2e3c714d3fd26&chksm=a6ac534c91dbda5ab5ace1e4767667ecd9648d47977684432d8f68001065439b67a9894c5b93&scene=21#wechat_redirect) |
-| CFA编辑部                | 南京审计大学 | 2020年4月 | 转载     | [交行董秘顾生荣获“金牌董秘”和“最受个人投资者欢迎”奖项](https://mp.weixin.qq.com/s?__biz=MjM5MTk5MTgxNg==&mid=2247483928&idx=1&sn=5e4f39820143a947ceeb807f7bb7150d&chksm=a6ac537f91dbda69c74eda5cd2fed8eaf6860435e520bf6994ac9def6e627cd669d10ccdf52a&scene=21#wechat_redirect) |
-| 张维老师                 | 南京审计大学 | 2020年7月 | 原创     | [推动中国股市慢牛形成的十大建议](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247484934&idx=1&sn=a8f7524ad5382388b02d11d9651a4c46&chksm=fe4b043cc93c8d2a53d91af4478338e17b2d72a78737d3dcd1686b7c86beba00858b94e7a50a&token=2005506660&lang=zh_CN#rd) |
-| CFA编辑部                | 南京审计大学 | 2021年4月 | 转载     | [黄国平：应运而生的数字人民币](https://mp.weixin.qq.com/s?__biz=MzA3MDQ5NDYzMA%3D%3D&mid=2650248151&idx=1&sn=07f698c38f7e6d5119fcc719e693e88f&scene=45#wechat_redirect) |
-| 中国资本市场调查研究中心 | 南京审计大学 | 2021年7月 | 原创     | [关于720南京新冠疫情的预测](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247486204&idx=1&sn=e76d3ddd7a5f1f222363a20e1496e0ac&chksm=fe4b08c6c93c81d0770834602dd5a271ce380cea44f6341d946670349d152e1b3016dd83b1e2&token=2005506660&lang=zh_CN#rd) |
-| CFA编辑部                | 南京审计大学 | 2021年8月 | 转载     | [大即是恶？数字时代反垄断， 反对的是什么](https://mp.weixin.qq.com/s?__biz=MzAwMTIzNjY3OQ%3D%3D&mid=2650987076&idx=1&sn=91ad949197729c2620557a779dd1c390&scene=45#wechat_redirect) |
+| 分享人                   | 分享人单位   | 分享时间   | 分享类型 | 分享内容                                                     |
+| ------------------------ | ------------ | ---------- | -------- | ------------------------------------------------------------ |
+| 南审金融学院             | 南京审计大学 | 2020年4月  | 原创     | [2019新冠疫情冲击全球金融市场大事记](https://mp.weixin.qq.com/s?__biz=MjM5MTk5MTgxNg==&mid=2247483947&idx=1&sn=9683fe6194b6e46a40f2e3c714d3fd26&chksm=a6ac534c91dbda5ab5ace1e4767667ecd9648d47977684432d8f68001065439b67a9894c5b93&scene=21#wechat_redirect) |
+| CFA编辑部                | 南京审计大学 | 2020年4月  | 转载     | [交行董秘顾生荣获“金牌董秘”和“最受个人投资者欢迎”奖项](https://mp.weixin.qq.com/s?__biz=MjM5MTk5MTgxNg==&mid=2247483928&idx=1&sn=5e4f39820143a947ceeb807f7bb7150d&chksm=a6ac537f91dbda69c74eda5cd2fed8eaf6860435e520bf6994ac9def6e627cd669d10ccdf52a&scene=21#wechat_redirect) |
+| 张维老师                 | 南京审计大学 | 2020年7月  | 原创     | [推动中国股市慢牛形成的十大建议](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247484934&idx=1&sn=a8f7524ad5382388b02d11d9651a4c46&chksm=fe4b043cc93c8d2a53d91af4478338e17b2d72a78737d3dcd1686b7c86beba00858b94e7a50a&token=2005506660&lang=zh_CN#rd) |
+| CFA编辑部                | 南京审计大学 | 2021年4月  | 转载     | [黄国平：应运而生的数字人民币](https://mp.weixin.qq.com/s?__biz=MzA3MDQ5NDYzMA%3D%3D&mid=2650248151&idx=1&sn=07f698c38f7e6d5119fcc719e693e88f&scene=45#wechat_redirect) |
+| 中国资本市场调查研究中心 | 南京审计大学 | 2021年7月  | 原创     | [关于720南京新冠疫情的预测](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247486204&idx=1&sn=e76d3ddd7a5f1f222363a20e1496e0ac&chksm=fe4b08c6c93c81d0770834602dd5a271ce380cea44f6341d946670349d152e1b3016dd83b1e2&token=2005506660&lang=zh_CN#rd) |
+| CFA编辑部                | 南京审计大学 | 2021年8月  | 转载     | [大即是恶？数字时代反垄断， 反对的是什么](https://mp.weixin.qq.com/s?__biz=MzAwMTIzNjY3OQ%3D%3D&mid=2650987076&idx=1&sn=91ad949197729c2620557a779dd1c390&scene=45#wechat_redirect) |
+| CFA编辑部                | 南京审计大学 | 2021年9月  | 转载     | [恒大债务分析](https://mp.weixin.qq.com/s/dz92CKiLxnaFSs3hRBM3_g) |
+| CFA编辑部                | 南京审计大学 | 2021年10月 | 转载     | [限电、双控与低碳](https://mp.weixin.qq.com/s/kk6yHNYVQ1N87rzp-VJ77A) |
+| CFA编辑部                | 南京审计大学 | 2021年10月 | 转载     | [2021诺贝尔经济学奖：因果推断的研究对于现实社会有哪些意义？](https://mp.weixin.qq.com/s/dxQx-k4ZrwQsx1FBDQ_zgQ) |
+| CFA编辑部                | 南京审计大学 | 2021年10月 | 转载     | [重磅！央行、银保监会公布首批19家系统重要性银行名单（摘要）](https://mp.weixin.qq.com/s/_QSrVKUB1CR51uJNLJbUVA) |
+| CFA编辑部                | 南京审计大学 | 2021年10月 | 转载     | [审计署岗位要求一览（摘要）](https://mp.weixin.qq.com/s/W6ZUhDRsydOVF2yTf6THeQ) |
+| CFA编辑部                | 南京审计大学 | 2021年11月 | 转载     | [证监会拟招录315名金融、会计等相关专业背景工作人员（附详细岗位和条件）](https://mp.weixin.qq.com/s/CKTEqfOk2nzCzf_SpSM2ZQ) |
+| CFA编辑部                | 南京审计大学 | 2021年11月 | 转载     | [中金：双十一数据解读](https://mp.weixin.qq.com/s/kIpbttbgRgMZ-M7cMsn5uA) |
+| CFA编辑部                | 南京审计大学 | 2021年11月 | 转载     | [北交所开市首日：新股全线大涨，首批上市企业平均专利数达82件](https://mp.weixin.qq.com/s/F_ZNrCi2g5aBFpQ8SlxnHw) |
+| 中国资本市场调查研究中心 | 南京审计大学 | 2021年12月 | 转载     | [独立董事制度应该取消吗？](https://mp.weixin.qq.com/s/aAS5jPgZb1d-T8KSzAy2Bw) |
+| CFA编辑部                | 南京审计大学 | 2021年11月 | 转载     | [关于独董制度的7个问题](https://mp.weixin.qq.com/s/mkRc1J83vJC98DSHPSzE9A) |
 
 ## 工作经验分享
 
@@ -158,8 +170,6 @@ CFA编辑部会定期组织专门活动邀请学长姐分享留学经验。
 
 
 
-
-
 # 校内知识
 
 [返回目录](#目录)
@@ -181,6 +191,22 @@ CFA编辑部会定期挖掘校内优秀同学的经验进行分享。
 
 CFA编辑部会定期组织相关活动增强专业互动。
 
+### 老师图书分享
+
+| 主办方    | 活动时间   | 活动类别 | 活动内容                                                     |
+| --------- | ---------- | -------- | ------------------------------------------------------------ |
+| CFA编辑部 | 2020年11月 | 图书分享 | [S1华维老师：《万般滋味皆是生活》](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247485236&idx=1&sn=c974cb76e48283230c0976bb9382b66a&chksm=fe4b050ec93c8c18dbb94f516f56ea3ed17cbfeadc6412e10597c909239ac3bd5c55033ae0c6&token=2005506660&lang=zh_CN#rd) |
+| CFA编辑部 | 2020年12月 | 图书分享 | [S2孙清老师：《如何阅读一本书》](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247485327&idx=1&sn=d94c100d93546be459abb0518b0519b0&chksm=fe4b05b5c93c8ca3616640ff1e272a1c1cf75ac268ffb0dd5b7b1c41df54f716a2521073c2e6&token=2005506660&lang=zh_CN#rd) |
+| CFA编辑部 | 2021年1月  | 图书分享 | [S3宋丹丹老师：《江城》](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247485501&idx=1&sn=1bb1cf17311d137a33d597c2876af93b&chksm=fe4b0a07c93c8311b04d508b3908f874495601a1f7aa25dd4a1864ae0288d81d19f5c4637f51&token=2005506660&lang=zh_CN#rd) |
+| CFA编辑部 | 2021年9月  | 图书分享 | [S4杨崇慧老师：普通人读的医学健康书](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247486744&idx=1&sn=cac69b2411f20980a47b340515a27953&chksm=fe4b0f22c93c86347706fb0380d73ef7366960daa697b99a11151803f4ade63bcdad0818987a&token=2005506660&lang=zh_CN#rd) |
+| CFA编辑部 | 2021年10月 | 图书分享 | [S5金素老师：《穷查理宝典》](https://mp.weixin.qq.com/s/1hg_AB4QKBsD4uUvF-5WTg) |
+| CFA编辑部 | 2021年10月 | 图书分享 | [S6顾梦佳老师：《问道马克思——为什么信仰马克思主义？》](https://mp.weixin.qq.com/s/oFk1JT8PBI35MdaZHsxlXA) |
+| CFA编辑部 | 2021年10月 | 图书分享 | [S7陈苏豪老师：《是非与曲直——个案中的法理》](https://mp.weixin.qq.com/s/Ob4jaLrfIktR4ez3Aigjpw) |
+| CFA编辑部 | 2021年10月 | 图书分享 | [S8蒋丽老师：《留德十年》](https://mp.weixin.qq.com/s/tFKjrHsBx-lEtEjHuFScBw) |
+| CFA编辑部 | 2022年1月  | 图书分享 | [S9陆凯旋老师：米什金《宏观经济学》](https://mp.weixin.qq.com/s/wqWt-ztPWmgKVQ1fqYnF0A) |
+
+### 校内其他活动
+
 | 主办方                                   | 活动时间   | 活动类别 | 活动内容                                                     |
 | ---------------------------------------- | ---------- | -------- | ------------------------------------------------------------ |
 | CFA编辑部                                | 2019年10月 | 节日祝福 | [南京审计大学CFA学子祝福新中国70周年华诞](https://mp.weixin.qq.com/s?__biz=MjM5MTk5MTgxNg==&mid=2247483681&idx=1&sn=35e55c8bc6fc9f655fd309d090a81eb6&chksm=a6ac504691dbd9506b77437286bb66604ccc256cfed201c00ab516d5aba362a232e522668847&scene=21#wechat_redirect) |
@@ -192,18 +218,18 @@ CFA编辑部会定期组织相关活动增强专业互动。
 | CFA编辑部                                | 2020年5月  | 换届招新 | [2020年CFA编辑小组招新](https://mp.weixin.qq.com/s/8UD91Ra8YhkgWFbpty3ZVw) |
 | CFA编辑部                                | 2020年11月 | 换届招新 | [CFA编辑小组2020年换届说明](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247485131&idx=1&sn=0441fa8673bcfc85eb48cb8575b98765&chksm=fe4b04f1c93c8de732b00506f8dca7c6e7149e8ee0b1f70133a0f5a01de40236e1348b1e1d9c&token=2005506660&lang=zh_CN#rd) |
 | CFA编辑部                                | 2020年11月 | 分享讲座 | [周潘睿：大学规划经验分享](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247485286&idx=1&sn=bde78302e19cab808e49a6060538d5f0&chksm=fe4b055cc93c8c4a8815448a5792963a5df055d221826d77f2233c9b5e4ba0793e42187fd612&token=2005506660&lang=zh_CN#rd) |
-| CFA编辑部                                | 2020年11月 | 图书分享 | [S1华维老师：《万般滋味皆是生活》](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247485236&idx=1&sn=c974cb76e48283230c0976bb9382b66a&chksm=fe4b050ec93c8c18dbb94f516f56ea3ed17cbfeadc6412e10597c909239ac3bd5c55033ae0c6&token=2005506660&lang=zh_CN#rd) |
 | CFA编辑部                                | 2020年11月 | 技术学习 | [Python学习第一期](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247485210&idx=1&sn=3b40808e6e5a3acaa448babb785ad08e&chksm=fe4b0520c93c8c363fccfdb864ae0ceade45d70f18e20d0d68ef5c63563a21b10c56d872e668&token=2005506660&lang=zh_CN#rd) |
 | CFA编辑部                                | 2020年11月 | 技术学习 | [Python学习第二期](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247485314&idx=1&sn=adadf6663e2a979e3532110772fa193e&chksm=fe4b05b8c93c8cae016be5db822df07e7af55cb5e73d93ed47b6614d1cb4d05d1b1ea7b39627&token=2005506660&lang=zh_CN#rd) |
 | CFA编辑部                                | 2020年11月 | 金融时评 | [全面实行股票发行注册制前后我国资本市场会发生哪些变化](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247485271&idx=1&sn=7b280c1a4bf3a28fe4fcf59b7015882e&chksm=fe4b056dc93c8c7bb625eb701980ac3c3177dcccddb0467461b0e33974da0afc6eb10a4a66b0&token=2005506660&lang=zh_CN#rd) |
-| CFA编辑部                                | 2020年12月 | 图书分享 | [S2孙清老师：《如何阅读一本书》](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247485327&idx=1&sn=d94c100d93546be459abb0518b0519b0&chksm=fe4b05b5c93c8ca3616640ff1e272a1c1cf75ac268ffb0dd5b7b1c41df54f716a2521073c2e6&token=2005506660&lang=zh_CN#rd) |
 | CFA编辑部                                | 2020年12月 | 考研祝福 | [您的考研祝福已送达，请及时查收噢~](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247485473&idx=1&sn=2a182aa4481e3e7054dda81f068f0000&chksm=fe4b0a1bc93c830d5bbab822a42a949c00432f56560416506b463cd78247446370c653129c45&token=2005506660&lang=zh_CN#rd) |
-| CFA编辑部                                | 2021年1月  | 图书分享 | [S3宋丹丹老师：《江城》](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247485501&idx=1&sn=1bb1cf17311d137a33d597c2876af93b&chksm=fe4b0a07c93c8311b04d508b3908f874495601a1f7aa25dd4a1864ae0288d81d19f5c4637f51&token=2005506660&lang=zh_CN#rd) |
 | CFA编辑部                                | 2021年2月  | 考研咨询 | [南审CFA考研复试咨询学长姐院校清单](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247485515&idx=1&sn=002fff1641f80aeb520a1fe03ba2278c&chksm=fe4b0a71c93c8367ec2136aa585cc177e9fa792bcc2c60dad73c5ac3dd373b82e39fca7c7d1c&token=2005506660&lang=zh_CN#rd) |
 | CFA编辑部                                | 2021年3月  | 换届招新 | [2021年CFA编辑小组招新](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247485543&idx=1&sn=fd77576cff947ecbdd8f6be78ade1cbb&chksm=fe4b0a5dc93c834bc45190f42a9d798ecfadb738951f3ff4eb203a4dd2531e3a35f8a0e8e74f&token=2005506660&lang=zh_CN#rd) |
 | CFA编辑部                                | 2021年4月  | 换届招新 | [CFA编辑部2021年换届说明](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247485730&idx=1&sn=45a837bc822c85963dedaa3da0cddfd2&chksm=fe4b0b18c93c820ef0670f3d2c7908f5dfafd279f0af11d6107a27f2e66b6d2587c7aa1393b5&token=2005506660&lang=zh_CN#rd) |
 | CFA编辑部                                | 2021年4月  | 组织团建 | [CFA编辑部春季线下交流](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247485760&idx=1&sn=c7be76e9c2c8272bd086e116ea3d93da&chksm=fe4b0b7ac93c826c1158bdb1f476cfac0f62066044d61235fb056923aac3faf1648204e1d2b3&token=2005506660&lang=zh_CN#rd) |
-| CFA编辑部                                | 2021年9月  | 图书分享 | [S4杨崇慧老师：普通人读的医学健康书](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247486744&idx=1&sn=cac69b2411f20980a47b340515a27953&chksm=fe4b0f22c93c86347706fb0380d73ef7366960daa697b99a11151803f4ade63bcdad0818987a&token=2005506660&lang=zh_CN#rd) |
+| CFA编辑部                                | 2021年9月  | 毕业祝福 | [【返校季】又是一年开学季，同样难忘同窗情！](https://mp.weixin.qq.com/s/eEQ7YxD-d00fQVwUSx7gzQ) |
+| CFA编辑部                                | 2021年12月 | 考研祝福 | [您的考研祝福已送达，请及时查收哦](https://mp.weixin.qq.com/s/BafYBUaFCy5YoC5AkIvG7Q) |
+| CFA编辑部                                | 2022年1月  | 年终总结 | [2021年终总结报告](https://mp.weixin.qq.com/s/3rEO6KMshBKYcw3ZJy1M9Q) |
+|                                          |            |          |                                                              |
 
 
 
