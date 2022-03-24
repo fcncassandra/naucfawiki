@@ -26,8 +26,6 @@
 
 知识库计划是南审CFA编辑部发起的纯公益学术性项目，该项目将通过调研采访等方式来收集金融行业各职业发展方向所必备的相关技能和学习资料，帮助南审CFA在校生接触到真实的市场情况和职业技能需要，为自己的职业发展早做规划。[详细](./项目介绍.md)
 
-
-
 # 行业知识
 
 [返回目录](#目录)
@@ -43,6 +41,8 @@
 ### 审计基础知识
 
 基础知识：[审计基础知识第一期](https://mp.weixin.qq.com/s/o2p0bmhMUJeWo5YMjOEbOA) 
+
+人物专访：[蒋鹏学长](https://mp.weixin.qq.com/s/hTdSkDL-a4oGwJzYTeU4uQ)  [冒旻言学长](https://mp.weixin.qq.com/s/4Wy0JKMomEspP4af9oD4pA) [韦星学姐](https://mp.weixin.qq.com/s/JOED3-9n0q24LjC64Ru0Dg)
 
 ## 研究及新闻分享
 
@@ -79,12 +79,14 @@ CFA编辑部会定期组织专门活动邀请学长姐分享工作经验。
 | 张智尧 | 2013级CFA      | 2017     | 南京初印象文化传媒       | 摄影       | [摄影教学](https://mp.weixin.qq.com/s?__biz=MjM5MTk5MTgxNg==&mid=2247483924&idx=1&sn=3f1650dee6c0c882d2827589fe575827&chksm=a6ac537391dbda65c22a3302d0d28aefae6fe82c0c15571d3ee24599a35f9c97f11c42a2572f&scene=21#wechat_redirect) |
 | 陆思远 | 2012级CFA      | 2016     | 致同会计师事务所         | 咨询       | [咨询金融更契合，会所可曲线救国](https://mp.weixin.qq.com/s?__biz=MjM5MTk5MTgxNg==&mid=2247483654&idx=1&sn=bc69e31237604334833cf16ed47842fd&chksm=a6ac506191dbd977447bfdd2299f3cebfd63c6bd64345fb54b69a4904dc52f0fa29822743d58&scene=21#wechat_redirect) |
 | 徐爽月 | 2012级CFA      | 2016     | 阿里巴巴                 | 税务       | [把握契合度，实现个人价值](https://mp.weixin.qq.com/s?__biz=MjM5MTk5MTgxNg==&mid=2247483668&idx=1&sn=0e0b23c359faa1a24566f4deafd15584&chksm=a6ac507391dbd9655e8f371873e9d559adac05f12307589c4fb976cb945f0254a1f18f500788&scene=21#wechat_redirect) |
-| 谈亦涵 | 2012级CFA      | 2016     | 久谦咨询                 | 咨询       | [确定方向，储备技能和经历](https://mp.weixin.qq.com/s?__biz=MjM5MTk5MTgxNg==&mid=2247483668&idx=1&sn=0e0b23c359faa1a24566f4deafd15584&chksm=a6ac507391dbd9655e8f371873e9d559adac05f12307589c4fb976cb945f0254a1f18f500788&scene=21#wechat_redirect) |
+| 谈亦涵 | 2012级CFA      | 2018     | 久谦咨询                 | 咨询       | [确定方向，储备技能和经历](https://mp.weixin.qq.com/s?__biz=MjM5MTk5MTgxNg==&mid=2247483668&idx=1&sn=0e0b23c359faa1a24566f4deafd15584&chksm=a6ac507391dbd9655e8f371873e9d559adac05f12307589c4fb976cb945f0254a1f18f500788&scene=21#wechat_redirect) |
 | 韦星   | 2013级CFA      | 2017     | 安永                     | 审计       | [工作经验分享](https://mp.weixin.qq.com/s?__biz=MjM5MTk5MTgxNg==&mid=2247483668&idx=1&sn=0e0b23c359faa1a24566f4deafd15584&chksm=a6ac507391dbd9655e8f371873e9d559adac05f12307589c4fb976cb945f0254a1f18f500788&scene=21#wechat_redirect) |
-| 孙世乾 | 2013级CFA      | 2017     | 中国农业银行             | 金融市场部 | [工作经验分享](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247485552&idx=1&sn=4d9ad50f6fcce72f3394aa5295b2f2e2&chksm=fe4b0a4ac93c835c33cb07c00ef875ffb43c2a125ee9f470b41c621e2354d9253390d619da10&token=2005506660&lang=zh_CN#rd) |
-| 刘灿   | 2013级CFA      | 2017     | 苏州高新区管委会         | 国资办     | [工作经验分享](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247485552&idx=1&sn=4d9ad50f6fcce72f3394aa5295b2f2e2&chksm=fe4b0a4ac93c835c33cb07c00ef875ffb43c2a125ee9f470b41c621e2354d9253390d619da10&token=2005506660&lang=zh_CN#rd) |
+| 孙世乾 | 2013级CFA      | 2020     | 中国农业银行             | 金融市场部 | [工作经验分享](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247485552&idx=1&sn=4d9ad50f6fcce72f3394aa5295b2f2e2&chksm=fe4b0a4ac93c835c33cb07c00ef875ffb43c2a125ee9f470b41c621e2354d9253390d619da10&token=2005506660&lang=zh_CN#rd) |
+| 刘灿   | 2013级CFA      | 2020     | 苏州高新区管委会         | 国资办     | [工作经验分享](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247485552&idx=1&sn=4d9ad50f6fcce72f3394aa5295b2f2e2&chksm=fe4b0a4ac93c835c33cb07c00ef875ffb43c2a125ee9f470b41c621e2354d9253390d619da10&token=2005506660&lang=zh_CN#rd) |
 | 糜志鹏 | 2014级金融工程 | 2018     | 大成惠中基金管理有限公司 | 基金       | [工作经验和大学建议](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247486268&idx=1&sn=3f44c8c1c677a53f112f8164d64ca6f4&chksm=fe4b0906c93c80104aff6fc29491c1a9043e037948fde1034480b4ca5823f14da3518db16fad&token=2005506660&lang=zh_CN#rd) |
-| 李毅   | 2013级金融     | 2017     | 中证鹏元资信评估         | 信用       | [工作经验分享](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247486268&idx=1&sn=3f44c8c1c677a53f112f8164d64ca6f4&chksm=fe4b0906c93c80104aff6fc29491c1a9043e037948fde1034480b4ca5823f14da3518db16fad&token=2005506660&lang=zh_CN#rd) |
+| 李毅   | 2013级金融     | 2019     | 中证鹏元资信评估         | 信用       | [工作经验分享](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247486268&idx=1&sn=3f44c8c1c677a53f112f8164d64ca6f4&chksm=fe4b0906c93c80104aff6fc29491c1a9043e037948fde1034480b4ca5823f14da3518db16fad&token=2005506660&lang=zh_CN#rd) |
+| 平帅   | 2012级CFA      | 2020     | 弘业期货                 | 期货       | [工作经验分享](https://mp.weixin.qq.com/s/C0Y48KVkT5rK000DTPi6PA) |
+| 潘蓉   | 2012级CFA      | 2016     | 西部信托                 | 信托       | [工作经验分享](https://mp.weixin.qq.com/s/C0Y48KVkT5rK000DTPi6PA) |
 
 
 
@@ -128,9 +130,9 @@ CFA编辑部会定期组织专门活动邀请学长姐分享考研经验。
 | 谭洁   | 2016级CFA  | 2020     | 上海财经大学         | 金融计量硕士     | [考研经验分享](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247485001&idx=1&sn=05a8a5a8046763a75304b1742e8b9594&chksm=fe4b0473c93c8d654f4b6410f4275ed22780664e759130e9acccf5cc03208f6bed16ac514bd7&scene=21#wechat_redirect) |
 | 李雨晴 | 2016级CFA  | 2020     | 中国农业大学         | 金融专硕         | [考研经验分享](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247484959&idx=1&sn=4f790ab5600702ac24001d7d1f27cbf9&chksm=fe4b0425c93c8d337d3ca831b0c6c7b85f1501abec49392efcc2bb6d4d1df9aedce26e85140e&scene=21#wechat_redirect) |
 | 张崇潇 | 2016级CFA  | 2020     | 西南大学             | 文学类方向       | [文学跨考经验分享](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247484880&idx=1&sn=25165912167a7d3c38c707147674210f&chksm=fe4b07eac93c8efc685eb7ca890835e4f776cd5193a8d348ef3cbc1ef19f1ea88dd7518fb912&scene=21#wechat_redirect) |
-| 邱剑锋 | 2016级CFA  | 2020     | 西南财经大学         | 金融专硕         | [考研经验分享](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247484521&idx=1&sn=21a9f207f2b52b4b04fd5cd943bf009b&chksm=fe4b0653c93c8f4572c44387dcd51e0aeb75f159d4217a7e14c97341405235e2d45f6bf75a45&token=2005506660&lang=zh_CN#rd) |
+| 邱剑锋 | 2016级CFA  | 2020     | 西南财经大学         | 金融专硕         | [考研经验分享（人物专访）](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247484521&idx=1&sn=21a9f207f2b52b4b04fd5cd943bf009b&chksm=fe4b0653c93c8f4572c44387dcd51e0aeb75f159d4217a7e14c97341405235e2d45f6bf75a45&token=2005506660&lang=zh_CN#rd)<br/>[考研经验分享（交流会）](https://mp.weixin.qq.com/s/zTsi7ToBYV5UUc-AYaYhcA) |
 | 张忆宁 | 2017级CFA  | 2021     | 厦门大学             | 金融专硕         | [考研经验分享](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247485812&idx=1&sn=fb3965a3a083a652a9a03b54f8f5200b&chksm=fe4b0b4ec93c825867c0df4b52ed74b18bfaac4f4b3ec87475fa6a9ae725fba5a2d348cff378&token=2005506660&lang=zh_CN#rd) |
-| 唐潮   | 2017级CFA  | 2021     | 东南大学             | 国际商务专硕     | [考研经验分享](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247486185&idx=1&sn=54c5d62d76bd71e6a4f022aec56b1899&chksm=fe4b08d3c93c81c562aab1fc044536383077414f999cc6a1e2a90d510c407a722a9e713c7be7&token=2005506660&lang=zh_CN#rd) |
+| 唐潮   | 2017级CFA  | 2021     | 东南大学             | 国际商务专硕     | [考研经验分享（人物专访）](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247486185&idx=1&sn=54c5d62d76bd71e6a4f022aec56b1899&chksm=fe4b08d3c93c81c562aab1fc044536383077414f999cc6a1e2a90d510c407a722a9e713c7be7&token=2005506660&lang=zh_CN#rd)<br/>[考研经验分享（交流会）](https://mp.weixin.qq.com/s/zTsi7ToBYV5UUc-AYaYhcA) |
 | 潘豪   | 2017级CFA  | 2021     | 西南财经大学         | 金融专硕         | [考研经验分享](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247486143&idx=1&sn=59f680fe27454fbc7b3949b226fc187b&chksm=fe4b0885c93c819302b5a2268b6adc33e43411d168d70dfcb8be77e1501fe052020a421e1e02&token=2005506660&lang=zh_CN#rd) |
 | 李阳   | 2017级CFA  | 2019     | 中国人民大学         | 金融专硕         | [考研经验分享](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247486084&idx=1&sn=10c1287f35a01edb01d72c71de58f90d&chksm=fe4b08bec93c81a8ee6178e40534bfe50634ceb39e206c0bb8ccda80a9c6e0515735833d5d8d&token=2005506660&lang=zh_CN#rd) |
 | 刘昊远 | 2017级CFA  | 2017     | 中国科学技术大学     | 金融专硕         | [考研经验分享](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247485853&idx=1&sn=21bb20b91ecddb26f52c851a4a2e0395&chksm=fe4b0ba7c93c82b13a30792540eef4f725da48b856109d5b2b393be469a7f40cebfbaad81ae1&token=2005506660&lang=zh_CN#rd) |
@@ -167,6 +169,8 @@ CFA编辑部会定期组织专门活动邀请学长姐分享留学经验。
 | 李可欣 | 2016级CFA  | 2020     | 法兰克福歌德大学   | Master in Money and Finance                    | [留学经验分享](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247485056&idx=1&sn=fe377d1e82976ec5454239d6c84b639b&chksm=fe4b04bac93c8daca076a4cb2d8bacbadd75fca6ad75026fb7d917d664607beb3f9b469fddd9&token=2005506660&lang=zh_CN#rd) |
 | 陈扬   | 2017级CFA  | 2021     | 加州大学洛杉矶分校 |                                                | [留学经验分享](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247486213&idx=1&sn=0e6fcc2cbfeaf8eeb9bbae221549eea6&chksm=fe4b093fc93c8029333d728b5461d50219b2b3b24f1609c209745980c74be7ee3d197355ac80&token=2005506660&lang=zh_CN#rd) |
 | 杨依然 | 2017级CFA  | 2021     | 布里斯托大学       | MSc Banking Regulation and Financial Stability | [留学经验分享](https://mp.weixin.qq.com/s?__biz=MzU5ODAzODM1Nw==&mid=2247485852&idx=1&sn=f3f72a4f5bd19daf58d7cde428c2aaa9&chksm=fe4b0ba6c93c82b03f87c03e8c1a1de0760b0085cb928243f047fc2047cad5259a8c9e141e3f&token=2005506660&lang=zh_CN#rd) |
+| 高镜骐 | 2018级CFA  | 2022     | 悉尼大学（暂定）   |                                                | [留学经验分享（交流会）](https://mp.weixin.qq.com/s/pSvYZmYc9kmDHBvUtM6SLA) |
+| 郭怡然 | 2017级CFA  | 2021     | 格拉斯哥大学       | 经济学硕士                                     | [留学经验分享（交流会）](https://mp.weixin.qq.com/s/pSvYZmYc9kmDHBvUtM6SLA) |
 
 
 
